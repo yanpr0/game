@@ -1,0 +1,52 @@
+min_radius 5
+
+player_hp 100
+player_shield 100
+player_attack 100
+player_acceleration 1000
+player_max_speed 450
+
+projectile_radius 3
+projectile_speed 500
+
+gun_attack 1000
+gun_cooldown 150
+
+fps 40
+
+prespawn_duration 7000
+spawn_duration 10000
+
+player_color 16777215
+projectile_color 11403055
+enemy_color 15631086
+hp_bonus_color 16729344
+shield_bonus_color 65535
+gun_attack_bonus_color 64154
+gun_cooldown_bonus_color 16766720
+
+hp_bonus 100
+shield_bonus 100
+gun_attack_bonus 30
+gun_cooldown_bonus -30
+
+enemy_hp_min 100
+enemy_hp_min_prob 70
+enemy_hp_mid 300
+enemy_hp_mid_prob 20
+enemy_hp_max 1000
+enemy_hp_max_prob 10
+
+enemy_attack_min 100
+enemy_attack_var 200
+
+enemy_acceleration_min 500
+enemy_acceleration_var 700
+
+enemy_max_speed_min 200
+enemy_max_speed_var 100
+
+bonus_prob 20
+
+warning_radius 2
+
