@@ -45,7 +45,7 @@ public:
 
     virtual void collide(Object& other) noexcept override
     {
-        if ((team_mask_ | other.team_mask_) == 0)
+        if ((team_mask_ & other.team_mask_) == 0)
         {
             if (other.shield_ > 0)
             {

@@ -7,9 +7,9 @@ player_acceleration 1000
 player_max_speed 450
 
 projectile_radius 3
-projectile_speed 500
+projectile_speed 800
 
-gun_attack 1000
+gun_attack 100
 gun_cooldown 150
 
 fps 40
